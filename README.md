@@ -4,6 +4,8 @@ Install the dependencies and run the project
 npm install
 npm start
 ```
+<img width="428" height="553" alt="pwdGen" src="https://github.com/user-attachments/assets/c0c4f176-f73e-4f72-8c2d-8187bf0df9e6" />
+
 
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
