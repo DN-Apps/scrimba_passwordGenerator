@@ -1,0 +1,55 @@
+body {
+    margin-left: 35px;
+    background-color: #1F2937;
+}
+
+h1{
+ color: white;
+}
+h3{
+    color: white;
+}
+
+#greenHighlight{
+    color: #10B981;
+}
+
+#btn-generate{
+    background-color: #10B981;
+    width: 150px;
+    height: 30px;
+    font-size: 14px;
+    color: white;
+    border-radius: 8px;
+}
+
+#password-container{
+    border-top: 1px #2F3E53 solid;
+    width: 350px;
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;    
+}
+
+
+#password1{
+    background-color: #273549;
+    width: 160px;
+    height: 40px;
+    margin-top: 15px;
+    border-radius: 8px;
+    color: #10B981;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#password2{
+    background-color: #273549;
+    height: 40px;
+    width: 160px;
+    margin-top: 15px;
+    border-radius: 8px;
+    color: #10B981;
+    text-align: center;
+    padding-top: 20px;
+}
